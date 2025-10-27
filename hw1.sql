@@ -19,3 +19,4 @@ CREATE TABLE marks (
     FOREIGN KEY (stud_id) REFERENCES students(id),
     FOREIGN KEY (subj_id) REFERENCES subjects(id)
 );
+-- asd
